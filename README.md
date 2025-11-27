@@ -4,11 +4,7 @@ ml deployment project for land cover classification using cnn
 
 ## video demo
 
-[youtube link to be added]
-
-## live deployment url
-
-[aws url to be added after deployment]
+[youtube](https://youtu.be/ihnQoRMvi9k)
 
 ## project description
 
